@@ -1,4 +1,4 @@
-# Computer Graphics Assignment 4 (Putting it all together - Frogger)
+# Computer Graphics CSC561 (3D Frogger)
 ## @author Rachit Shrivastava
 ## @email rshriva@ncsu.edu
 
@@ -38,11 +38,11 @@ The tasks completed in this assignment are -
 3. Part 3: add motion to the frog
 4. Part 4: add interaction between frog and field
 
-Apart from the given tasks some tasks for extra credits have been implemented as well - 
-1. 2% Track and display score. You can choose any scoring scale you want.
-2. 3% First person Frogger. As the frog moves, a perspective camera moves with it.
-3. 4% Add at least one additional vehicle (e.g. truck) or creature (e.g. turtle). Ensure that its behavior differs from other vehicles or creatures (e.g. speed or diving). - Added two 3d models, car and a van with different speed as others
-4. 5% Sound and music. On certain game events, e.g. game start, movement, collision, etc. play a sound effect. Some sounds are here and here, but feel free to use your own.
+The game also features - 
+1. Track and display score. You can choose any scoring scale you want.
+2. First person Frogger. As the frog moves, a perspective camera moves with it.
+3. Add at least one additional vehicle (e.g. truck) or creature (e.g. turtle). Ensure that its behavior differs from other vehicles or creatures (e.g. speed or diving). - Added two 3d models, car and a van with different speed as others
+4. Sound and music. On certain game events, e.g. game start, movement, collision, etc. play a sound effect. Some sounds are here and here, but feel free to use your own.
 
 
 > When you win or the game is over you need to reload the page in order to start a new game

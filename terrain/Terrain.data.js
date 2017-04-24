@@ -21,7 +21,7 @@ Module.expectedDataFileDownloads++;
       throw 'using preloaded data can only be done on a web page or in a web worker';
     }
     var PACKAGE_NAME = '/Users/rachit/Documents/Unreal Projects/Terrain/Binaries/HTML5/Terrain.data';
-    var REMOTE_PACKAGE_BASE = 'Terrain.data';
+    var REMOTE_PACKAGE_BASE = 'https://drive.google.com/open?id=0B5jyD3ul3WReQ2pFb0huU0FsY1E';
     if (typeof Module['locateFilePackage'] === 'function' && !Module['locateFile']) {
       Module['locateFile'] = Module['locateFilePackage'];
       Module.printErr('warning: you defined Module.locateFilePackage, that has been renamed to Module.locateFile (using your locateFilePackage for now)');

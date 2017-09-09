@@ -189,7 +189,7 @@ function calculateHalfVector(l, v) {
 
 /* Ray Casting Alogrithm */
 function rayCasting(context) {
-    var inputSpheres = getJSONFile("https://ncsucgclass.github.io/prog1/spheres.json");
+    var inputSpheres = getJSONFile("spheres.json");
     var w = context.canvas.width;
     var h = context.canvas.height;
     var imagedata = context.createImageData(w,h);
